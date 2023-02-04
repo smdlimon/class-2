@@ -150,25 +150,25 @@ $week = 7;
 
 switch ($week) {
     case 1:
-        echo "";
+        echo "Saturday";
         break;
     case 2:
-        echo "";
+        echo "Sunday";
         break;
     case 3:
-        echo "";
+        echo "Monday";
         break;
     case 4:
-        echo "";
+        echo "Tuesday";
         break;
     case 5:
-        echo "";
+        echo "Wednesday";
         break;
     case 6:
-        echo "";
+        echo "Thursday";
         break;
     case 7:
-        echo "";
+        echo "Friday";
         break;
     default:
         echo "Invalid Number";

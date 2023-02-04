@@ -171,7 +171,7 @@ switch ($week) {
         echo "Friday";
         break;
     default:
-        echo "Invalid Number";
+        echo "Invalid Number!";
 }
 
 
